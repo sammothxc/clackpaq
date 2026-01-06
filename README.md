@@ -7,9 +7,9 @@
 - Keycaps: TBD
 - Plate: FR4
 - PCB: FR4, 2 layer
-- Optional backlighting
 
 Pipe Dreams:
+- Backlit
 - Hot swappable sockets
 - Plates of other materials
 - Acoustic foam
