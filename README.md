@@ -1,2 +1,15 @@
 # clackpaq
-A drop-in replacement mechanical keyboard for the terrible foam-and-foil keyboard
+
+## Specifications
+
+- Controller: ATmega32U4
+- Switches: MX Cherry
+- Keycaps: TBD
+- Plate: FR4
+- PCB: FR4, 2 layer
+- Optional backlighting
+
+Pipe Dreams:
+- Hot swappable sockets
+- Plates of other materials
+- Acoustic foam
