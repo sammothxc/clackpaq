@@ -1,4 +1,4 @@
-# clackpaq
+![](assets/logo.png)
 
 ## Specifications
 
