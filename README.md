@@ -1,6 +1,8 @@
 ![](assets/logo-dark.svg#gh-dark-mode-only)
 ![](assets/logo-light.svg#gh-light-mode-only)
 
+A drop-in replacement mechanical keyboard for the Compaq Portable I/Plus foam-and-foil keyboard
+
 ## Specifications
 
 - Controller: ATmega32U4
