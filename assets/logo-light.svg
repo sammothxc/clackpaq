@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 400 75"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="clackpaq_temp_light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="stripeGradient"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="0%">
+      <stop
+         offset="0%"
+         stop-color="#FCED00"
+         id="stop2" />
+      <stop
+         offset="50%"
+         stop-color="#EE952B"
+         id="stop4" />
+      <stop
+         offset="100%"
+         stop-color="#F53000"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <g
+     aria-label="CLACKPAQ"
+     id="text11"
+     style="font-size:48px;font-family:CLACKPAQ;letter-spacing:1;text-anchor:end;fill:#4d4d4d">
+    <path
+       d="m 108.43994,-2 -5.904,13.08 H 86.335938 l -9.816,21.864 h 16.104 L 86.575938,46 h -16.08 c -8.28,0 -10.296,-4.536 -6.528,-13.056 l 10.296,-22.632 c 3.768,-8.544 6.528,-12.312 18.36,-12.312 z"
+       id="path19" />
+    <path
+       d="m 119.49598,11.08 -9.792,21.864 h 16.08 L 119.75998,46 h -16.104 C 95.375981,46 93.359981,41.464 97.127981,32.944 L 107.42398,10.312 113.32798,-2 h 12 z"
+       id="path21" />
+    <path
+       d="m 124.07196,46 34.416,-48 h 15.216 l -4.032,48 h -11.04 l 0.624,-8.808 h -9.552 l 6.408,-9.792 h 4.032 l 1.368,-16.2 -23.232,34.8 z"
+       id="path23" />
+    <path
+       d="m 221.45593,-2 -5.904,13.08 h -16.2 l -9.816,21.864 h 16.104 L 199.59193,46 h -16.08 c -8.28,0 -10.296,-4.536 -6.528,-13.056 l 10.296,-22.632 c 3.768,-8.544 6.528,-12.312 18.36,-12.312 z"
+       id="path25" />
+    <path
+       d="m 231.91191,13 21.288,-15 h 15.216 l -32.256,24.576 10.344,23.424 h -13.608 l -7.416,-18.384 -8.76,18.384 h -13.056 l 22.44,-48 h 13.608 z"
+       id="path27" />
+    <path
+       d="m 250.55197,46 16.344,-35.688 c 2.016,-4.656 5.784,-12.312 18.096,-12.312 h 12.312 c 7.656,0 10.296,4.776 6.912,12.312 l -4.896,11.064 c -3.024,6.528 -4.152,9.792 -17.088,9.792 h -6.672 l 4.416,-9.792 h 6.768 l 4.776,-10.296 h -12.432 l -15.96,34.92 z"
+       id="path29" />
+    <path
+       d="m 287.64801,46 34.416,-48 h 15.216 l -4.032,48 h -11.04 l 0.624,-8.808 h -9.552 l 6.408,-9.792 h 4.032 l 1.368,-16.2 -23.232,34.8 z"
+       id="path31" />
+    <path
+       d="m 347.08798,46 c -8.28,0 -10.296,-4.536 -6.528,-13.056 l 10.296,-22.632 c 3.768,-8.544 6.552,-12.312 18.36,-12.312 h 11.808 c 10.056,0 9.048,7.296 6.768,12.312 l -10.032,22.632 h 9.792 L 381.26398,46 Z m 19.56,-13.08 9.936,-21.84 h -11.808 l -9.936,21.84 z"
+       id="path33" />
+  </g>
+  <polygon
+     points="10,56 390,56 385,66 10,66"
+     fill="url(#stripeGradient)"
+     id="polygon13" />
+</svg>
