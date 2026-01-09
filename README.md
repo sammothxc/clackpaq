@@ -1,4 +1,5 @@
-![](assets/logo.png)
+![](assets/logo-dark.svg#gh-dark-mode-only)
+![](assets/logo-light.svg#gh-light-mode-only)
 
 ## Specifications
 
